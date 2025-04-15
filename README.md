@@ -1,4 +1,4 @@
-# 2D-CNN
+# Withering-Degree-classfication
 
 Online monitoring system of black tea withering process based on image
 
